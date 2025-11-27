@@ -54,3 +54,10 @@ MERN Stack Development & DSA (Internship/Training)
 * **Description:**
     * Represented the institute at the Regional Electron Quiz Competition.
     * Held at Dr. Akhilesh Das Gupta Auditorium, BBDITM, Lucknow.
+
+### 6️⃣ Certificate of Excellence (Wildlife Week)
+* **Issued by:** Association of Chemistry Teachers (ACT) & BBDNIIT
+* **Achievement:** Consolation Prize
+* **Description:**
+    * Won prize in Poster, Rangoli & Quiz competition during Wildlife Week.
+    * Demonstrated creativity and extracurricular engagement.
