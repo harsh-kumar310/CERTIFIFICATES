@@ -15,6 +15,7 @@ MERN Stack Development & DSA (Internship/Training)
     * Successfully completed a comprehensive 90-hour training program.
     * Focused on **MERN Stack** (MongoDB, Express, React, Node.js).
     * Covered **Data Structures & Algorithms (DSA)** concepts.
+* **📄 Certificate:** ([./Internship_Certificate.pdf](https://github.com/harsh-kumar310/CERTIFIFICATES/blob/main/Internship%20Certificate.pdf))
 
 ## 🎓 Workshops & Courses
 
