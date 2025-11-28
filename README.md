@@ -38,6 +38,7 @@ MERN Stack Development & DSA (Internship/Training)
 * **Description:**
     * Completed the "AI Aware" stage of the program.
     * Gained fundamental understanding of Artificial Intelligence and its applications.
+* **📄 Certificate:** ([./Internship_Certificate.pdf](https://github.com/harsh-kumar310/CERTIFIFICATES/blob/main/Internship%20Certificate.pdf))
 
  ## 🏆 Competitions & Assessments
  
